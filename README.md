@@ -5,10 +5,10 @@
 - 📫 Contate-me no email: danisalgedev@gmail.com
 <div>
   <a href="https://github.com/DanielSalge/github-readme-stats">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielSalge&show_icons=true&theme=dark&hide=contribs,issues" />
+    <img align="center" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=DanielSalge&show_icons=true&theme=dark&hide=contribs,issues" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSalge&layout=compact&langs_count-168&theme=dark" />
+    <img align="center" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSalge&layout=compact&langs_count-168&theme=dark" />
   </a>
 </div>
 
