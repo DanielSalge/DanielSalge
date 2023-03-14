@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Daniel Solis Salge
 
-- 🔭 No momento estou á procura do meu primeiro emprego como desenvolvedor.
+- 🔭 No momento estou à procura do meu primeiro emprego como desenvolvedor.
 - 🌱 Estudando JAVA e MySQL na faculdade de Sistemas da Informação
 - 📫 Contate-me no email: danisalgedev@gmail.com
 <div>
