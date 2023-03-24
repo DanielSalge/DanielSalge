@@ -4,13 +4,6 @@
 - 🌱 Estudando JAVA e MySQL na faculdade de Sistemas da Informação
 - 🏬 Meu portfólio: https://danielsalge.github.io/Portfolio/
 <div>
-  <a href="https://github.com/DanielSalge/github-readme-stats">
-    <img align="center" height="180em" width="51%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielSalge&show_icons=true&theme=dark&hide=contribs,issues" />
-  </a>
- 
-<a href="https://github.com/DanielSalge/convoychat">
-    <img align="center" height="157em" width="46%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielSalge&layout=compact&langs_count-168&theme=dark" />
- </a> 
   
 </div>
 
